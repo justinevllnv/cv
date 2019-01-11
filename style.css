@@ -1,0 +1,68 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin: 0;
+  font-size: 70px;
+  font-family: 'Sacramento', cursive;
+}
+h1:hover{
+  color: #009f9d;
+}
+p{
+  margin: 0 auto 0 auto;
+  width: 50%;
+}
+h3{
+  font-size: 30px;
+}
+h3:hover{
+  color: #009f9d;
+}
+/**********************************CLASS**********************************/
+.top-container{
+  background-color: #f9ecec;
+  position: relative;
+  padding-top: 30px;
+}
+.summit{
+  background-color: #f0d9da;
+  margin: 0;
+  position: relative;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.yellow-flag{
+  width: 80px;
+  height: 80px;
+  float:left;
+  margin-left: 230px;
+}
+.blue-flag{
+  width: 80px;
+  height: 80px;
+  float:right;
+  margin-right: 210px;
+}
+.hillary-norgay{
+  background-color:  #c8d9eb;
+  margin: 0;
+  position: relative;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.hillary-img{
+  border-radius: 100%;
+  width: 120px;
+  height: 120px;
+  margin: 20px auto -15px auto;
+}
+.norgay-img{
+  border-radius: 100%;
+  width: 120px;
+  height: 120px;
+  margin: 20px auto -15px auto;
+}
